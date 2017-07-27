@@ -36,9 +36,9 @@
     "ia32"
   ],
   "dependencies": {
-    "download": "^5.0.1",
+    "download": "^6.2.5",
     "download-status": "^2.2.1",
-    "rimraf": "^2.5.2"
+    "rimraf": "^2.6.1"
   },
   "config": {
     "version": "3.2.1",
